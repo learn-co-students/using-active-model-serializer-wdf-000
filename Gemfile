@@ -37,6 +37,7 @@ group :development, :test do
   gem 'capybara'
   gem 'database_cleaner'
   gem 'annotate'
+  gem 'active_model_serializers'
 end
 
 group :development do
